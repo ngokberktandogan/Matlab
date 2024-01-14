@@ -1,6 +1,8 @@
 ### Hi there 👋
 The project about equalizer in MATLAB
-An equalizer is tried to be designed via MATLAB. The equalizer filters the signal 
+An equalizer is tried to be designed via MATLAB.
+Code is in the pdf.
+The equalizer filters the signal 
 according to the given specifications. The filtration process of the equalizer is conducted by 
 FIR bandpass, lowpass and highpass filters. The equalizer amplifies and compresses 
 amplitudes of different frequency components in compliance with the user’s choice. 
